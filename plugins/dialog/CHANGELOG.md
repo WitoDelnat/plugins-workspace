@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.0-beta.2]
+
+- [`aa25c91`](https://github.com/tauri-apps/plugins-workspace/commit/aa25c91bb01e957872fb2b606a3acaf2f2c4ef3a)([#978](https://github.com/tauri-apps/plugins-workspace/pull/978)) Allow configuring `canCreateDirectories` for open and save dialogs on macOS, if not configured, it will be set to `true` by default.
+- [`16fc0f2`](https://github.com/tauri-apps/plugins-workspace/commit/16fc0f2ee34fdaef54d9ec88bbd2d6f802c90a4d)([#1033](https://github.com/tauri-apps/plugins-workspace/pull/1033)) Fixed an issue where dialogs would not spawn but instead freeze the whole app.
+- [`99bea25`](https://github.com/tauri-apps/plugins-workspace/commit/99bea2559c2c0648c2519c50a18cd124dacef57b)([#1005](https://github.com/tauri-apps/plugins-workspace/pull/1005)) Update to tauri beta.8.
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-beta.2`
+
 ## \[2.0.0-beta.1]
 
 - [`569defb`](https://github.com/tauri-apps/plugins-workspace/commit/569defbe9492e38938554bb7bdc1be9151456d21) Update to tauri beta.4.
@@ -87,5 +97,5 @@
 
 - [`717ae67`](https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   pull/371)) First v2 alpha release!
-kspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
+  kspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   pull/371)) First v2 alpha release!
